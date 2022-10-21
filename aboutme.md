@@ -6,8 +6,7 @@ subtitle: Voyons ça en deux/trois points
 
 Moi c'est Quentin ALLAIN. Je suis étudiant en Design numérique, et voici les différentes notions que je maitrise :
 
-- Le web design
-- Le game design
+- L'UI/UX design
 - Le logotype
 - L'illustration
 

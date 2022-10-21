@@ -10,6 +10,7 @@ Moi c'est Quentin ALLAIN. Je suis étudiant en Design numérique, et voici les d
 - Le logotype
 - L'illustration
 
+![Image test](/assets/img/imagetest.png)
 Vous voulez en savoir plus ?
 
 ### Mon histoire

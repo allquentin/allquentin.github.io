@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Je suis qui ?
-subtitle: Why you'd want to go on a date with me
+title: À propos de moi
+subtitle: Voyons ça en deux/trois points
 ---
 
-My name is Quentin ALLAIN. I have the following qualities:
+Moi c'est Quentin ALLAIN. Je suis étudiant en Design numérique, et voici les différentes notions que je maitrise :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Le web design
+- Le game design
+- Le logotype
+- L'illustration
 
-What else do you need?
+Vous voulez en savoir plus ?
 
-### My story
+### Mon histoire
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "quentin.allain56@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  youtube: ALL.Quentin - ZiaGy
+  youtube: https://www.youtube.com/channel/UCBK00xTNHUbLC4WS_KKjDvA
 #  medium: yourname
   reddit: ZiaGy
 #  linkedin: daattali

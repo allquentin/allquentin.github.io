@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos
+title: Me concernant
 ---
 ### Qui je suis ?
 
@@ -17,4 +17,3 @@ Ce site internet a été conçu lors d'un projet scolaire. Certains y ont décid
 ### Vous voulez en savoir plus sur moi ?
 
 Vous pouvez allez regarder mes réseaux sociaux à l'aide des boutons si dessous, j'espère que mes créations vous plairont !
-- Quentin

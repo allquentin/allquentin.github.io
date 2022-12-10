@@ -6,7 +6,7 @@ title: Me concernant
 
 Moi c'est Quentin ALLAIN. Je suis étudiant en Design numérique, et voici les principales notions que je maitrise :
 
-- L'UI/UX design
+- Le Design d'Interface
 - Le logotype
 - L'illustration
 

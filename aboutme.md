@@ -1,19 +1,20 @@
 ---
 layout: page
-title: À propos de moi
-subtitle: Voyons ça en deux/trois points
+title: À propos
 ---
+### Qui je suis ?
 
-Moi c'est Quentin ALLAIN. Je suis étudiant en Design numérique, et voici les différentes notions que je maitrise :
+Moi c'est Quentin ALLAIN. Je suis étudiant en Design numérique, et voici les principales notions que je maitrise :
 
 - L'UI/UX design
 - Le logotype
 - L'illustration
 
-![image test](/assets/img/image test.png)
+### Quel est ce site ?
 
-Vous voulez en savoir plus ?
+Ce site internet a été conçu lors d'un projet scolaire. Certains y ont décidé d'en faire leur portfolio, j'ai décidé d'en faire un support pour présenter 3 de mes plus gros projets.
 
-### Un petit récap
+### Vous voulez en savoir plus sur moi ?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Vous pouvez allez regarder mes réseaux sociaux à l'aide des boutons si dessous, j'espère que mes créations vous plairont !
+- Quentin

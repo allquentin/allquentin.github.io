@@ -7,4 +7,4 @@ thumbnail-img: /assets/img/Pokemon thumbnail2.png
 share-img: /assets/img/path.jpg
 ---
 
-## Voici un projet de Rebranding
+## L'art de mieux faire

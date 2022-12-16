@@ -16,7 +16,11 @@ Five Nights at Freddy’s: Security Breach est un jeu vidéo d’aventure/horreu
 ![Image menu de base](/assets/img/Main screen.png)
 
 En effet, l’interface du menu principal est très classique, voire même trop. Ce genre d’interface rappelle les menus principaux des jeux-vidéos en développement, les jeux-vidéos en bêta ou en démo, et selon moi, ce genre d’interface ne doit pas être utilisé pour un jeu-vidéo final, surtout de cette ampleur.
-Comme pour le projet de Rebranding, mes intentions était de refaire l’interface, en mieux, en beaucoup mieux. Et pour cela, j’ai décidé de reprendre chacune des interfaces (menu principal, page paramètre, page de chargement de sauvegarde, page d’effacement des sauvegardes…), une par une, afin d’animer tout cela et d’en faire un mockup, une vidéo de présentation pour montrer à quoi ressemblerait ma version du menu. Voici une compilation avant/après de mes productions.
+Comme pour le projet de Rebranding, mes intentions était de refaire l’interface du menu principal, en mieux, en beaucoup mieux.
+
+![Image menu redesign](/assets/img/Main screen ALT.png)
+
+Pour cela, j’ai décidé de reprendre chacune des interfaces (menu principal, page paramètre, page de chargement de sauvegarde, page d’effacement des sauvegardes…), une par une, afin d’animer tout cela et d’en faire un mockup, une vidéo de présentation pour montrer à quoi ressemblerait ma version du menu. Voici une compilation avant/après de mes productions.
 
 ![Compil 1](/assets/img/Compilation.png)
 

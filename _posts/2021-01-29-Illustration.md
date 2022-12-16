@@ -11,3 +11,6 @@ share-img: /assets/img/path.jpg
 
 Cherchant à varier les techniques et à m'améliorer en dessin, voici une compilation de mes meilleures créations, passants du vectoriel, à la photographie, au montage photo ou encore à la typographie.
 
+![Compilation 01](/assets/img/Compilation Illu.png)
+![Compilation 02](/assets/img/Compilation Illu2.png)
+![Compilation 03](/assets/img/Compilation Illu3.png)

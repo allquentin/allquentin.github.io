@@ -14,3 +14,4 @@ Cherchant à varier les techniques et à m'améliorer en dessin, voici une compi
 ![Compilation 01](/assets/img/Compilation Illu.png)
 ![Compilation 02](/assets/img/Compilation Illu2.png)
 ![Compilation 03](/assets/img/Compilation Illu3.png)
+![Compilation 04](/assets/img/Compilation Illu4.png)

@@ -19,11 +19,17 @@ En effet, l’interface du menu principal est très classique, voire même trop.
 Comme pour le projet de Rebranding, mes intentions était de refaire l’interface, en mieux, en beaucoup mieux. Et pour cela, j’ai décidé de reprendre chacune des interfaces (menu principal, page paramètre, page de chargement de sauvegarde, page d’effacement des sauvegardes…), une par une, afin d’animer tout cela et d’en faire un mockup, une vidéo de présentation pour montrer à quoi ressemblerait ma version du menu. Voici une compilation avant/après de mes productions.
 
 ![Compil 1](/assets/img/Compilation.png)
+
 ![Compil 2](/assets/img/Compilation2.png)
+
 ![Compil 3](/assets/img/Compilation3.png)
+
 ![Compil 4](/assets/img/Compilation4.png)
+
 ![Compil 5](/assets/img/Compilation5.png)
+
 ![Compil 6](/assets/img/Compilation6.png)
+
 ![Compil 7](/assets/img/Compilation7.png)
 
 Vous voulez voir le rendu vidéo ? cliquez sur le lien ci-dessous !

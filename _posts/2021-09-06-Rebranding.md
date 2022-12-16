@@ -18,5 +18,4 @@ Ici, j’ai voulu refaire les logos de deux jeux-vidéos Pokémon : Version Noir
 En effet, nous connaissons tous le logo jaune et bleu, mais ce n’est pas le cas au Japon. À chaque nouvelle sortie de jeu, les japonais adaptent leur logo Pokémon avec un nouveau style graphique. Le problème, c’est qu’avec notre logo jaune et bleu intouchable, la personnalisation est tout de suite moins présente. Alors j’ai voulu changer ça, et voici le résultat !
 
 ![avant/après](/assets/img/Pokemon thumbnail2.png)
-![boite blanche](/assets/img/boite blanche.png)
-![boite noire](/assets/img/boite noire.png)
+![boites](/assets/img/boite.png)

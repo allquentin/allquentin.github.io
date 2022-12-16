@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Illustrations
+subtitle: Projets d'illustrations
 cover-img: /assets/img/Bannière I.png
 thumbnail-img: /assets/img/Illustrations thumbnail.png
 share-img: /assets/img/path.jpg

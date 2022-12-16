@@ -7,4 +7,4 @@ thumbnail-img: /assets/img/FNaF thumbnail.png
 share-img: /assets/img/path.jpg
 ---
 
-## Voici un projet d'UI Redesign
+## L'importance des interfaces numériques

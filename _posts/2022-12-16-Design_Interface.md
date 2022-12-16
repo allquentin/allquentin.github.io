@@ -11,7 +11,7 @@ share-img: /assets/img/path.jpg
 
 Ce projet  peut ressembler à un Rebranding, sauf qu’il ne s’agit pas d’un logo. Nous parlons ici d’interface numérique, notamment dans les jeux-vidéos.
 
-Five Nights at Freddy’s: Security Breach est un jeu vidéo d’aventure/horreur sortie fin 2021, 9ème opus de la saga. Étant ma saga de jeux vidéo préférée, je tiens énormément à coeur ces jeux-vidéos, seulement, ce 9ème jeu est sorti avec beaucoup de défauts, notamment avec l’interface du menu principal.
+Five Nights at Freddy’s: Security Breach est un jeu vidéo d’aventure/horreur sortie fin 2021, 9ème opus de la saga. Étant ma saga de jeux vidéo préférée, j'y tiens énormément à coeur, seulement, ce 9ème jeu est sorti avec beaucoup de défauts, et notamment avec l’interface du menu principal.
 
 ![Image menu de base](/assets/img/Main screen.png)
 
